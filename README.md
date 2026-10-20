@@ -1,6 +1,12 @@
 # Estrategia-comercial-de-Andes-Capital-Real-Estate
 dashboard interactivo en Power BI que permite analizar ventas, clientes y propiedades para apoyar decisiones estratégicas.
 
+![Overview](Images/1.png)
+![Tipo de propiedad](Images/2.png)
+![Segmento de clientes](Images/3.png)
+![Recompra](Images/4.png)
+![Resumen Ejecutivo](Images/5.png)
+
 ¿Cuál es el ingreso total generado por la empresa?
 ¿Cuántas propiedades se han vendido?
 ¿Cuál es el precio promedio de venta?
